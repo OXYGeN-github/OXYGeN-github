@@ -1,4 +1,4 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=OXYGeN-github&show_icons=true&line_height=150)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=OXYGeN-github&show_icons=true&line_height=15)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
